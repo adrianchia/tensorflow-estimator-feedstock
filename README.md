@@ -5,11 +5,9 @@ Home: https://github.com/tensorflow/estimator
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tensorflow-estimator-feedstock/blob/master/LICENSE.txt)
 
 Summary: TensorFlow Estimator is a high-level TensorFlow API that greatly simplifies machine learning programming.
-
-
 
 Current build status
 ====================
